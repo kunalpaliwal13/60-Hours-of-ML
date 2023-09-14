@@ -5,4 +5,5 @@
 - matplotlib
 - seaborn
 - Handling Missing Values
+- Data Standardization & Label Encoding
 
