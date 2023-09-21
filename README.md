@@ -10,3 +10,7 @@
 - Preprocessing text data
 - Numeical data preprocessing(a combined use case of al of the concepts
 
+### Mathematical Prerequisites
+- Vector operations
+
+
