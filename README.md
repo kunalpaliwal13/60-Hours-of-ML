@@ -9,6 +9,7 @@
 - Handling Imbalanced dataset
 - Preprocessing text data
 - Numeical data preprocessing(a combined use case of al of the concepts
+- Model Selection
 
 ### Mathematical Prerequisites
 - Vector operations
