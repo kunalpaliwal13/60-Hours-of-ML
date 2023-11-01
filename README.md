@@ -14,4 +14,7 @@
 ### Mathematical Prerequisites
 - Vector operations
 
+### Models and algorithms
+- Gradient Descent
+
 
