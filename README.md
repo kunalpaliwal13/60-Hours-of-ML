@@ -16,5 +16,6 @@
 
 ### Models and algorithms
 - Gradient Descent
+- Linear Regression
 
 
