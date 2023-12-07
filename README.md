@@ -17,5 +17,7 @@
 ### Models and algorithms
 - Gradient Descent
 - Linear Regression
+- Lasso Regression
+- Svm CLassifier
 
 
