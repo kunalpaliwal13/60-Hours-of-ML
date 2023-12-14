@@ -13,3 +13,9 @@
 
 
 <img src="https://github.com/kunalpaliwal13/60-Hours-of-ML/assets/143526414/36437992-b565-48c8-a235-0cd6d4cbd58a" height="300px">
+
+<h2>Confusion Matrix</h2>
+<img src="https://github.com/kunalpaliwal13/60-Hours-of-ML/assets/143526414/f7e9c684-589a-4447-9b23-01faa9197d54" alt="K-Fold 1" height="300px">
+
+
+
