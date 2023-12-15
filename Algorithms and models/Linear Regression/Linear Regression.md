@@ -3,7 +3,7 @@
 model outline:
 
 <img src="https://github.com/kunalpaliwal13/60-Hours-of-ML/assets/143526414/8688d69a-3aa7-40c5-8e3b-1485302d68c9"  height="500">
-
+ 
 
 ![image](https://github.com/kunalpaliwal13/60-Hours-of-ML/assets/143526414/a14525b7-e992-4345-9e43-fb6361914c77)
 
