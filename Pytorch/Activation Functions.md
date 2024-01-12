@@ -49,6 +49,9 @@ For binary classifications, use Relu, PRelu, Elu for hidden layers and sigmoid f
 For multiclass, use Relu or a modificationa in the hidden layers and SOftmax for output layer.
 <image src = "https://github.com/kunalpaliwal13/60-Hours-of-ML/assets/143526414/83aca1e6-cd2b-4676-bd8e-8e0eab8c4642" height="300px" alt="ANN Classification">
 
+For regression, use Relu for hidden layer and linear activation for output layer.
+<image src = "https://github.com/kunalpaliwal13/60-Hours-of-ML/assets/143526414/76f49cd3-01c1-4a54-ac9d-d432997eb709" height="300px" alt="ANN Classification">
+
 
 
 
