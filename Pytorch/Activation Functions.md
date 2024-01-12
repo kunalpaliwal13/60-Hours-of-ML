@@ -1,3 +1,5 @@
+# About Activation Functions
+
 ## Sigmoid Function
 - prone to vanishing gradient
 - time consuming operations
@@ -40,6 +42,14 @@
 - computationally more expensive(exponent)
 
 <image src = "https://github.com/kunalpaliwal13/60-Hours-of-ML/assets/143526414/43a0f968-5067-49c0-9630-358cc5bd2091" height="300px" alt=" Exponential relu function">
+
+# Where to use which functions
+
+For binary classifications, use Relu, PRelu, Elu for hidden layers and sigmoid foe output.<br>
+For multiclass, use Relu or a modificationa in the hidden layers and SOftmax for output layer.
+<image src = "https://github.com/kunalpaliwal13/60-Hours-of-ML/assets/143526414/83aca1e6-cd2b-4676-bd8e-8e0eab8c4642" height="300px" alt="ANN Classification">
+
+
 
 
 
