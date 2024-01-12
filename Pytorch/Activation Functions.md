@@ -26,4 +26,23 @@
 <image src = "https://github.com/kunalpaliwal13/60-Hours-of-ML/assets/143526414/b36964c4-37d8-4ee0-abd0-d715b2b2b768" height="300px" alt="relu function">
 
 
+## Leaky Relu
+- Advantages of Relu
+- Removes dead Relu problem
+- not zero centric
+
+<image src = "https://github.com/kunalpaliwal13/60-Hours-of-ML/assets/143526414/87e22e37-fb6b-45bb-97fb-601f9835d634" height="300px" alt="Leaky relu function">
+
+
+## Exponential Relu
+- No dead Relu issue
+- zero centric
+- computationally more expensive(exponent)
+
+<image src = "https://github.com/kunalpaliwal13/60-Hours-of-ML/assets/143526414/43a0f968-5067-49c0-9630-358cc5bd2091" height="300px" alt=" Exponential relu function">
+
+
+
+
+
 
