@@ -9,7 +9,7 @@
 
 ## Tanh Function
 - efficient weight updation (zero centric)
-- prone to vanishing gradient
+- prone to vanishing gradient (for deep deep NN)
 - timely complex
 
 
