@@ -56,48 +56,6 @@ For regression, use Relu for hidden layer and linear activation for output layer
 <image src = "https://github.com/kunalpaliwal13/60-Hours-of-ML/assets/143526414/76f49cd3-01c1-4a54-ac9d-d432997eb709" height="200px" alt="ANN Classification">
 
 
-# Loss Functions
-Based on different problem statements(regression or classification) we use different loss functions.
-
-
-<image src = "https://github.com/kunalpaliwal13/60-Hours-of-ML/assets/143526414/7dfc2daa-4bdf-439c-b120-b63c7224a169" height="200px" alt="Loss function img">
-
-Loss function exists for a single data point and cost function exists for a batch(in an epoch, it si the avg loss function).
-
-
-There are differeent types of loss functions
-
-<image src = "https://github.com/kunalpaliwal13/60-Hours-of-ML/assets/143526414/6205855c-4d6a-498a-910c-4cf6923d7d9d" height="200px" alt="Loss function img">
-
-<image src = "https://github.com/kunalpaliwal13/60-Hours-of-ML/assets/143526414/1994746f-6621-45e8-a798-606dd4547a10" height="200px" alt="ANN Classification">
-
-
-### 1. Mean squared error(MSE)
-<image src = "https://github.com/kunalpaliwal13/60-Hours-of-ML/assets/143526414/c34b3824-7772-4598-9382-8a576ef8da3e" height="200px" alt="ANN Classification">
-
-MSE is differentiable and has one globala or maximum minima and it converges faster BUT
-It is not robust to outliers
-
-<image src = "https://github.com/kunalpaliwal13/60-Hours-of-ML/assets/143526414/73b00dae-b0fb-45d6-a6be-6bfc6b266c3b" height="200px" alt="ANN Classification">
-
-### 2. Mean Absolute Error
-MAE is similar to MSE but hre, we use the absolute error value instead of squaring it.
-
-Convergence takes a little time in ti though.
-
-
-<image src = "https://github.com/kunalpaliwal13/60-Hours-of-ML/assets/143526414/73b00dae-b0fb-45d6-a6be-6bfc6b266c3b" height="200px" alt="ANN Classification">
-
-### 3. Huber Loss
-
-It is a mix of MSE and MAE
-
-<image src = "https://github.com/kunalpaliwal13/60-Hours-of-ML/assets/143526414/61af23c9-942d-469c-aa6e-f341efdafb64" height="200px" alt="ANN Classification">
-
-### 3. Root mean square error
-
-<image src = "https://github.com/kunalpaliwal13/60-Hours-of-ML/assets/143526414/577b8f54-f8b5-437a-95b4-97253313b590" height="200px" alt="ANN Classification">
-
 
 
 
